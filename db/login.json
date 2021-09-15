@@ -1,0 +1,8 @@
+{
+	"dev": {
+			"host": "localhost",
+			"database": "flavorplus",
+			"user": "appserver",
+			"password": "x&6xPaMq7wFpby&a"
+	}
+}
